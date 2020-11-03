@@ -1,0 +1,2 @@
+# IoT_gateway_with_AIO-320RA
+ADC(AIO-320RA)を実装したraspberrypiによる16chアナログデータ収集が可能なaws IoT用ゲートウェイ
